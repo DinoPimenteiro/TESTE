@@ -1,0 +1,10 @@
+C:\Users\Alunos\Downloads\insanos\cadastroInsano\cadastroInsano\bin\Debug\cadastroInsano.exe.config
+C:\Users\Alunos\Downloads\insanos\cadastroInsano\cadastroInsano\bin\Debug\cadastroInsano.exe
+C:\Users\Alunos\Downloads\insanos\cadastroInsano\cadastroInsano\bin\Debug\cadastroInsano.pdb
+C:\Users\Alunos\Downloads\insanos\cadastroInsano\cadastroInsano\obj\Debug\cadastroInsano.csproj.AssemblyReference.cache
+C:\Users\Alunos\Downloads\insanos\cadastroInsano\cadastroInsano\obj\Debug\cadastroInsano.Form1.resources
+C:\Users\Alunos\Downloads\insanos\cadastroInsano\cadastroInsano\obj\Debug\cadastroInsano.Properties.Resources.resources
+C:\Users\Alunos\Downloads\insanos\cadastroInsano\cadastroInsano\obj\Debug\cadastroInsano.csproj.GenerateResource.cache
+C:\Users\Alunos\Downloads\insanos\cadastroInsano\cadastroInsano\obj\Debug\cadastroInsano.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Downloads\insanos\cadastroInsano\cadastroInsano\obj\Debug\cadastroInsano.exe
+C:\Users\Alunos\Downloads\insanos\cadastroInsano\cadastroInsano\obj\Debug\cadastroInsano.pdb
